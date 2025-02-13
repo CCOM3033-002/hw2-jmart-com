@@ -18,7 +18,7 @@ int main()
 
     cout << "Este programa suma dos fracciones." << endl;
 
-    // X Variables
+    // Declarar Variables
 
     double a;
     double b;;
